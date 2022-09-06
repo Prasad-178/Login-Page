@@ -1,3 +1,7 @@
+# Login Page
+A basic login page, made using React.js, written in TypeScript, and styled with Material UI.
+Note that the login and create-account buttons do not do anything, but only print the values gotten from the input field, into the console.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
